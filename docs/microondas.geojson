@@ -1,0 +1,207 @@
+{
+    "type": "FeatureCollection",
+    "features":[
+        {
+        "type":"Feature",
+        "geometry":{
+            "type":"Point",
+            "coordinates": [4.679977305160201, -74.08580936044898]
+        },
+        "properties":{
+            "marca": "Kalley",
+            "precio_descuento":"269900",
+            "precio_regular":"399900",
+            "alto_cm":"25.9",
+            "ancho_cm":"44",
+            "profundo_cm":"32.9",
+            "capacidad_lts":"20",
+            "modelo":"K-MW07N",
+            "potencia_w":"700",
+            "voltaje_v":"1100",
+            "color":"Negro"
+            }
+        },
+        {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates": [4.683626434677173, -74.08129634419628]
+      },
+      "properties":{
+        "marca": "",
+        "precio_descuento":"",
+        "precio_regular":"",
+        "alto_cm":"",
+        "anco_cm":"",
+        "profundo_cm":"",
+        "capacidad_lts":"",
+        "modelo":"",
+        "potencia_w":"",
+        "voltaje_v":"",
+        "color":""
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates": []
+      },
+      "properties":{
+        "marca": "",
+        "precio_descuento":"",
+        "precio_regular":"",
+        "alto_cm":"",
+        "anco_cm":"",
+        "profundo_cm":"",
+        "capacidad_lts":"",
+        "modelo":"",
+        "potencia_w":"",
+        "voltaje_v":"",
+        "color":""
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates": []
+      },
+      "properties":{
+        "marca": "",
+        "precio_descuento":"",
+        "precio_regular":"",
+        "alto_cm":"",
+        "anco_cm":"",
+        "profundo_cm":"",
+        "capacidad_lts":"",
+        "modelo":"",
+        "potencia_w":"",
+        "voltaje_v":"",
+        "color":""
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates": []
+      },
+      "properties":{
+        "marca": "",
+        "precio_descuento":"",
+        "precio_regular":"",
+        "alto_cm":"",
+        "anco_cm":"",
+        "profundo_cm":"",
+        "capacidad_lts":"",
+        "modelo":"",
+        "potencia_w":"",
+        "voltaje_v":"",
+        "color":""
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates": []
+      },
+      "properties":{
+        "marca": "",
+        "precio_descuento":"",
+        "precio_regular":"",
+        "alto_cm":"",
+        "anco_cm":"",
+        "profundo_cm":"",
+        "capacidad_lts":"",
+        "modelo":"",
+        "potencia_w":"",
+        "voltaje_v":"",
+        "color":""
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates": []
+      },
+      "properties":{
+        "marca": "",
+        "precio_descuento":"",
+        "precio_regular":"",
+        "alto_cm":"",
+        "anco_cm":"",
+        "profundo_cm":"",
+        "capacidad_lts":"",
+        "modelo":"",
+        "potencia_w":"",
+        "voltaje_v":"",
+        "color":""
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates": []
+      },
+      "properties":{
+        "marca": "",
+        "precio_descuento":"",
+        "precio_regular":"",
+        "alto_cm":"",
+        "anco_cm":"",
+        "profundo_cm":"",
+        "capacidad_lts":"",
+        "modelo":"",
+        "potencia_w":"",
+        "voltaje_v":"",
+        "color":""
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates": []
+      },
+      "properties":{
+        "marca": "",
+        "precio_descuento":"",
+        "precio_regular":"",
+        "alto_cm":"",
+        "anco_cm":"",
+        "profundo_cm":"",
+        "capacidad_lts":"",
+        "modelo":"",
+        "potencia_w":"",
+        "voltaje_v":"",
+        "color":""
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates": []
+      },
+      "properties":{
+        "marca": "",
+        "precio_descuento":"",
+        "precio_regular":"",
+        "alto_cm":"",
+        "anco_cm":"",
+        "profundo_cm":"",
+        "capacidad_lts":"",
+        "modelo":"",
+        "potencia_w":"",
+        "voltaje_v":"",
+        "color":""
+      }
+    }
+    ]
+
+
+}
