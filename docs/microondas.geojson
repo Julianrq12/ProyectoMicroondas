@@ -17,7 +17,7 @@
             "capacidad_lts":"20",
             "modelo":"K-MW07N",
             "potencia_w":"700",
-            "voltaje_v":"1100",
+            "voltaje_v":"120",
             "color":"Negro"
             }
         },
@@ -28,17 +28,77 @@
         "coordinates": [4.683626434677173, -74.08129634419628]
       },
       "properties":{
-        "marca": "",
-        "precio_descuento":"",
-        "precio_regular":"",
-        "alto_cm":"",
-        "anco_cm":"",
-        "profundo_cm":"",
-        "capacidad_lts":"",
-        "modelo":"",
-        "potencia_w":"",
-        "voltaje_v":"",
+        "marca": "Electrolux",
+        "precio_descuento":"299950",
+        "precio_regular":"311948",
+        "alto_cm":"26",
+        "ancho_cm":"44",
+        "profundo_cm":"34",
+        "capacidad_lts":"20",
+        "modelo":"EMDO20S3GSLUG",
+        "potencia_w":"950",
+        "voltaje_v":"110",
+        "color":"Plateado"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates": [4.6851769193667065, -74.07904328869228]
+      },
+      "properties":{
+        "marca": "Haceb",
+        "precio_descuento":"333900",
+        "precio_regular":"427900",
+        "alto_cm":"26.2",
+        "ancho_cm":"45.2",
+        "profundo_cm":"36",
+        "capacidad_lts":"20",
+        "modelo":"9002065",
+        "potencia_w":"1100",
+        "voltaje_v":"120",
         "color":""
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates": [4.605444342586927, -74.0772244592418]
+      },
+      "properties":{
+        "marca": "Inducol",
+        "precio_descuento":"314900",
+        "precio_regular":"388700",
+        "alto_cm":"24.3",
+        "ancho_cm":"44.6",
+        "profundo_cm":"31.9",
+        "capacidad_lts":"20",
+        "modelo":"INDMOP70T20AP-VBS",
+        "potencia_w":"700",
+        "voltaje_v":"110",
+        "color":""
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates": [4.632676472203876, -74.12552587398804]
+      },
+      "properties":{
+        "marca": "Mabe",
+        "precio_descuento":"299900",
+        "precio_regular":"369900",
+        "alto_cm":"26",
+        "ancho_cm":"45",
+        "profundo_cm":"36",
+        "capacidad_lts":"19.8",
+        "modelo":"MGE07SEJ",
+        "potencia_w":"700",
+        "voltaje_v":"110",
+        "color":"Negro"
       }
     },
     {
@@ -52,67 +112,7 @@
         "precio_descuento":"",
         "precio_regular":"",
         "alto_cm":"",
-        "anco_cm":"",
-        "profundo_cm":"",
-        "capacidad_lts":"",
-        "modelo":"",
-        "potencia_w":"",
-        "voltaje_v":"",
-        "color":""
-      }
-    },
-    {
-      "type":"Feature",
-      "geometry":{
-        "type":"Point",
-        "coordinates": []
-      },
-      "properties":{
-        "marca": "",
-        "precio_descuento":"",
-        "precio_regular":"",
-        "alto_cm":"",
-        "anco_cm":"",
-        "profundo_cm":"",
-        "capacidad_lts":"",
-        "modelo":"",
-        "potencia_w":"",
-        "voltaje_v":"",
-        "color":""
-      }
-    },
-    {
-      "type":"Feature",
-      "geometry":{
-        "type":"Point",
-        "coordinates": []
-      },
-      "properties":{
-        "marca": "",
-        "precio_descuento":"",
-        "precio_regular":"",
-        "alto_cm":"",
-        "anco_cm":"",
-        "profundo_cm":"",
-        "capacidad_lts":"",
-        "modelo":"",
-        "potencia_w":"",
-        "voltaje_v":"",
-        "color":""
-      }
-    },
-    {
-      "type":"Feature",
-      "geometry":{
-        "type":"Point",
-        "coordinates": []
-      },
-      "properties":{
-        "marca": "",
-        "precio_descuento":"",
-        "precio_regular":"",
-        "alto_cm":"",
-        "anco_cm":"",
+        "ancho_cm":"",
         "profundo_cm":"",
         "capacidad_lts":"",
         "modelo":"",
