@@ -22,10 +22,15 @@ async function cargarPuntos(){
         let misCoordenadas= listaFeatures[i]["geometry"]["coordinates"];
         var miMarcador= L.marker(misCoordenadas);
         miMarcador.addTo(map);
+        map.on('click', onMapClick);
+
+    function onMapClick(e) {
+    L.popup()
+    .setLatLng(e.latlng)
+     .setContent("¡Haz hecho clic en el mapa!")
+     .openOn(map);
     }
-
-    
-
+    }  
 }
 
 cargarPuntos();
