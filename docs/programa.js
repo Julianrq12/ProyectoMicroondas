@@ -17,7 +17,7 @@ async function cargarPuntos(){
     //Obtener el arreglo de la llave features - Conjunto de objetos tipo feature
     let listaFeatures= datos["features"];
 
-    for(let i=0; i<5;i++){
+    for(let i=0; i<10;i++){
 
         let misCoordenadas= listaFeatures[i]["geometry"]["coordinates"];
         var miMarcador= L.marker(misCoordenadas);

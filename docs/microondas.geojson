@@ -105,19 +105,39 @@
       "type":"Feature",
       "geometry":{
         "type":"Point",
-        "coordinates": []
+        "coordinates": [4.6063077813977795, -74.07704075198835]
       },
       "properties":{
-        "marca": "",
-        "precio_descuento":"",
-        "precio_regular":"",
-        "alto_cm":"",
-        "ancho_cm":"",
-        "profundo_cm":"",
-        "capacidad_lts":"",
-        "modelo":"",
-        "potencia_w":"",
-        "voltaje_v":"",
+        "marca": "Samsung",
+        "precio_descuento":"399000",
+        "precio_regular":"509000",
+        "alto_cm":"27.5",
+        "ancho_cm":"48.9",
+        "profundo_cm":"37.7",
+        "capacidad_lts":"23",
+        "modelo":"MS23DG4504AT/CO",
+        "potencia_w":"1350",
+        "voltaje_v":"120",
+        "color":"Negro"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates": [4.655026855996807, -74.10544320277775]
+      },
+      "properties":{
+        "marca": "Electrolux",
+        "precio_descuento":"309900",
+        "precio_regular":"599900",
+        "alto_cm":"34.4",
+        "ancho_cm":"45.2",
+        "profundo_cm":"34.4",
+        "capacidad_lts":"20",
+        "modelo":"EMDO20S3GSLUG ",
+        "potencia_w":"1100",
+        "voltaje_v":"120",
         "color":""
       }
     },
@@ -125,19 +145,39 @@
       "type":"Feature",
       "geometry":{
         "type":"Point",
-        "coordinates": []
+        "coordinates": [4.672299822685514, -74.08870282154949]
       },
       "properties":{
-        "marca": "",
-        "precio_descuento":"",
-        "precio_regular":"",
-        "alto_cm":"",
-        "anco_cm":"",
-        "profundo_cm":"",
-        "capacidad_lts":"",
+        "marca": "Mabe",
+        "precio_descuento":"319950",
+        "precio_regular":"369950",
+        "alto_cm":"26",
+        "anco_cm":"45",
+        "profundo_cm":"35",
+        "capacidad_lts":"20",
+        "modelo":"MGE07SEJ",
+        "potencia_w":"110",
+        "voltaje_v":"1000",
+        "color":"gris"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates": [4.619288159718297, -74.09047474647497]
+      },
+      "properties":{
+        "marca": "Acros",
+        "precio_descuento":"269900",
+        "precio_regular":"442900",
+        "alto_cm":"26.2",
+        "ancho_cm":"45.2",
+        "profundo_cm":"34",
+        "capacidad_lts":"19",
         "modelo":"",
-        "potencia_w":"",
-        "voltaje_v":"",
+        "potencia_w":"700",
+        "voltaje_v":"120",
         "color":""
       }
     },
@@ -145,60 +185,20 @@
       "type":"Feature",
       "geometry":{
         "type":"Point",
-        "coordinates": []
+        "coordinates": [4.610904024432975, -74.09558167254487]
       },
       "properties":{
-        "marca": "",
-        "precio_descuento":"",
-        "precio_regular":"",
-        "alto_cm":"",
-        "anco_cm":"",
-        "profundo_cm":"",
-        "capacidad_lts":"",
-        "modelo":"",
-        "potencia_w":"",
-        "voltaje_v":"",
-        "color":""
-      }
-    },
-    {
-      "type":"Feature",
-      "geometry":{
-        "type":"Point",
-        "coordinates": []
-      },
-      "properties":{
-        "marca": "",
-        "precio_descuento":"",
-        "precio_regular":"",
-        "alto_cm":"",
-        "anco_cm":"",
-        "profundo_cm":"",
-        "capacidad_lts":"",
-        "modelo":"",
-        "potencia_w":"",
-        "voltaje_v":"",
-        "color":""
-      }
-    },
-    {
-      "type":"Feature",
-      "geometry":{
-        "type":"Point",
-        "coordinates": []
-      },
-      "properties":{
-        "marca": "",
-        "precio_descuento":"",
-        "precio_regular":"",
-        "alto_cm":"",
-        "anco_cm":"",
-        "profundo_cm":"",
-        "capacidad_lts":"",
-        "modelo":"",
-        "potencia_w":"",
-        "voltaje_v":"",
-        "color":""
+        "marca": "Panasonic",
+        "precio_descuento":"319900",
+        "precio_regular":"479900",
+        "alto_cm":"25.7",
+        "ancho_cm":"44.3",
+        "profundo_cm":"32.9",
+        "capacidad_lts":"21",
+        "modelo":"NN-SB25JBRUH ",
+        "potencia_w":"1100",
+        "voltaje_v":"110",
+        "color":"Negro"
       }
     }
     ]
